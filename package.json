@@ -1,0 +1,11 @@
+{
+  "name": "reidme",
+  "version": "1.0.0",
+  "description": "A basic static site deployed on Vercel.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
